@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi  👋
 
 👋 ¡Qué onda! Soy SilvaDev, programador .NET y amante del código.
 
